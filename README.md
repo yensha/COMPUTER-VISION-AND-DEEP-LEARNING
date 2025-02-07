@@ -8,7 +8,7 @@ The homework consists of four main tasks implemented in a **single GUI**:
 2. **Augmented Reality**
 3. **Stereo Disparity Map**
 4. **SIFT (Scale-Invariant Feature Transform)**
-
+![Task1_GUI]()  
 ---
 
 ### **Camera Calibration**
