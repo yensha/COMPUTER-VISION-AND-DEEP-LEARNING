@@ -94,7 +94,8 @@ The homework consists of four main tasks implemented in a **single GUI**:
 
 ### **MNIST Generator (DcGAN)**
 #### **Objective:**
-- Train a Deep Convolutional GAN (DcGAN) to generate handwritten digits.
+- Train a Deep Convolutional GAN (DcGAN) to generate handwritten digits.(download the data.7z in dataset floder)
+
   
 <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/Task2.png?raw=true" width="200"> <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%876.jpg?raw=true" width="200">
 #### **GUI Buttons & Functions:**
