@@ -69,7 +69,7 @@ The homework consists of four main tasks implemented in a **single GUI**:
 
 ### **CIFAR10 Classifier (VGG19 + BN)**
 #### **Objective:**
-<img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%871.png?raw=true" width="200">
+<img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%871.png?raw=true" width="600">
 
 - Train a VGG19-based classifier for CIFAR10 dataset.
 
@@ -77,25 +77,25 @@ The homework consists of four main tasks implemented in a **single GUI**:
   
 #### **GUI Buttons & Functions:**
 - **1. Show Augmentation Images:** Load and display 9 augmented images.
-- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%872%20-%20%E8%A4%87%E8%A3%BD.png?raw=true" width="200">
+- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%872%20-%20%E8%A4%87%E8%A3%BD.png?raw=true" width="400">
 - **2. Show Model Structure:** Display the structure of the VGG19 model.
-- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%874%20-%20%E8%A4%87%E8%A3%BD.png?raw=true" width="200">
+- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%874%20-%20%E8%A4%87%E8%A3%BD.png?raw=true" width="600">
 - **3. Show Accuracy and Loss:** Display a graph of training/validation accuracy and loss.
-- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%873%20-%20%E8%A4%87%E8%A3%BD.png?raw=true" width="200">
+- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%873%20-%20%E8%A4%87%E8%A3%BD.png?raw=true" width="600">
 - **4. Inference:** Load an image, run inference, and display the predicted class label and probability distribution.
-- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%875.png?raw=true" width="200">
+- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%875.png?raw=true" width="400">
 
 ---
 
 ### **MNIST Generator (DcGAN)**
 #### **Objective:**
 - Train a Deep Convolutional GAN (DcGAN) to generate handwritten digits.
-<img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/Task2.png?raw=true" width="400"> <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%876.jpg?raw=true" width="200">
+<img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/Task2.png?raw=true" width="200"> <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%876.jpg?raw=true" width="200">
 #### **GUI Buttons & Functions:**
 - **1. Show Training Images:** Load and display the MNIST dataset with augmentation.
-- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%8710.png?raw=true" width="600">
+- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%877.png?raw=true" width="600">
 - **2. Show Model Structure:** Display the structure of the Generator and Discriminator models.
-- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%878.png?raw=true" width="200">
+- <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%878.png?raw=true" width="600">
 - **3. Show Training Loss:** Display a graph of the Generator and Discriminator loss.
 - <img src="https://github.com/yensha/COMPUTER-VISION-AND-DEEP-LEARNING/blob/main/Img/%E5%9C%96%E7%89%879.png?raw=true" width="800">
 - **4. Generate Images:** Generate and display fake images using the trained model.
